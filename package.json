@@ -1,0 +1,19 @@
+{
+  "name": "cosmos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottBrenden/cosmos.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottBrenden/cosmos/issues"
+  },
+  "homepage": "https://github.com/ScottBrenden/cosmos#readme"
+}
