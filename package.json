@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ScottBrenden/cosmos/issues"
   },
-  "homepage": "https://github.com/ScottBrenden/cosmos#readme"
+  "homepage": "https://github.com/ScottBrenden/cosmos#readme",
+  "dependencies": {
+    "css-loader": "^0.28.10",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.7"
+  }
 }
